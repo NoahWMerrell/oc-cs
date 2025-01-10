@@ -1,0 +1,55 @@
+Wizard 2 / Fighter 7
+-----------------------------------------
+Profiency Bonus: +4
+Strength Modifier: +3
+Dexterity Modifier: +2
+Constitution Modifier: +2
+Intelligence Modifier: +3
+Wisdom Modifier: +0
+Charisma Modifier: +0
+
+Strength Saving Throw: +3
+Dexterity Saving Throw: +2
+Constitution Saving Throw: +2
+Intelligence Saving Throw: +7
+Wisdom Saving Throw: +4
+Charisma Saving Throw: +0
+
+Acrobatics: +6
+Animal handling: +0
+Arcana: +7
+Athletics: +7
+Deception: +0
+History: +7
+Insight: +0
+Intimidation: +0
+Investigation: +3
+Medicine: +0
+Nature: +3
+Perception: +0
+Performance: +0
+Persuasion: +0
+Religion: +3
+Sleight of hand: +2
+Stealth: +2
+Survival: +0
+
+Passive Perception: 10
+Initiative: +2
+AC: 20
+Hit Point Maximum: 88
+Hit Dice: 7d10 2d6 
+
+Spellcasting Information:
+-----------------------------------------
+Wizard (Spell Attack Bonus +7, Spell Save DC 15)
+Fighter (Spell Attack Bonus +7, Spell Save DC 15)
+1st: 4
+2nd: 3
+3rd: 0
+4th: 0
+5th: 0
+6th: 0
+7th: 0
+8th: 0
+9th: 0
